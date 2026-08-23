@@ -1,0 +1,57 @@
+﻿@model List<tdkhoa_day2.Models.Product>
+
+@{
+    ViewData["Title"] = "Quản lý sản phẩm";
+}
+
+<div class="container">
+
+    <h2>Quản lý sản phẩm</h2>
+
+    <table class="table table-bordered">
+
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Created At</th>
+                <th>Image</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+
+                    <td>@product.Name</td>
+
+                    <td>@product.Price.ToString("N0") VNĐ</td>
+
+                    <td>
+                        @product.CreatedAt.ToString("dd-MM-yyyy")
+                    </td>
+
+                    <td>
+                        <img src="@product.Image"
+                             width="50"
+                             height="50" />
+                    </td>
+
+                    <td>
+                        <button class="btn btn-success">
+                            View
+                        </button>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+</div>

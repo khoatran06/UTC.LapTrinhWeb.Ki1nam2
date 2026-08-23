@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\",
+  "WorkspaceRootPath": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|solutionrelative:tdkhoa_day1\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day1\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\studentconsoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|solutionrelative:tdkhoa_day1\\studentconsoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\StudentConsoleView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day1\\StudentConsoleView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|solutionrelative:tdkhoa_day1\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\StudentValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day1\\StudentValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|solutionrelative:tdkhoa_day1\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day1\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|solutionrelative:tdkhoa_day1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day1\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A4F921F-8699-4B2F-E8CD-A1B46E0F5CDA}|tdkhoa_day1\\tdkhoa_day1.csproj|solutionrelative:tdkhoa_day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MenuManager.cs",
-              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\MenuManager.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\MenuManager.cs",
               "RelativeDocumentMoniker": "tdkhoa_day1\\MenuManager.cs",
-              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\MenuManager.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\MenuManager.cs",
               "RelativeToolTip": "tdkhoa_day1\\MenuManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-15T02:22:24.012Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StudentConsoleView.cs",
-              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\StudentConsoleView.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\StudentConsoleView.cs",
               "RelativeDocumentMoniker": "tdkhoa_day1\\StudentConsoleView.cs",
-              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\StudentConsoleView.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\StudentConsoleView.cs",
               "RelativeToolTip": "tdkhoa_day1\\StudentConsoleView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "StudentValidator.cs",
-              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\StudentValidator.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\StudentValidator.cs",
               "RelativeDocumentMoniker": "tdkhoa_day1\\StudentValidator.cs",
-              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\StudentValidator.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\StudentValidator.cs",
               "RelativeToolTip": "tdkhoa_day1\\StudentValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\StudentService.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\StudentService.cs",
               "RelativeDocumentMoniker": "tdkhoa_day1\\StudentService.cs",
-              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\StudentService.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\StudentService.cs",
               "RelativeToolTip": "tdkhoa_day1\\StudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\Student.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\Student.cs",
               "RelativeDocumentMoniker": "tdkhoa_day1\\Student.cs",
-              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\Student.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\Student.cs",
               "RelativeToolTip": "tdkhoa_day1\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\Program.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\Program.cs",
               "RelativeDocumentMoniker": "tdkhoa_day1\\Program.cs",
-              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\tdkhoa_day1\\tdkhoa_day1\\Program.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day1\\tdkhoa_day1\\Program.cs",
               "RelativeToolTip": "tdkhoa_day1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

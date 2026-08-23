@@ -1,0 +1,101 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Banner trang chủ */
+.banner {
+    background: #174a87;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+    margin-bottom: 30px;
+}
+
+    .banner h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .banner p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .banner button {
+        background: white;
+        color: #174a87;
+        border: none;
+        padding: 10px 25px;
+        cursor: pointer;
+    }
+
+
+/* Tiêu đề danh sách */
+.container h2 {
+    margin-bottom: 20px;
+}
+
+
+/* Danh sách sản phẩm */
+.product-list {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+/* Từng sản phẩm */
+.product-card {
+    width: 220px;
+    border: 1px solid #ddd;
+    background: white;
+    padding: 15px;
+    text-align: center;
+}
+
+
+    /* Ảnh sản phẩm */
+    .product-card img {
+        width: 180px;
+        height: 180px;
+        object-fit: contain;
+    }
+
+
+    /* Tên sản phẩm */
+    .product-card p {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+
+.navbar {
+    background-color: #000000 !important;
+}
+
+    .navbar .navbar-brand,
+    .navbar .nav-link {
+        color: white !important;
+    }
+
+        .navbar .nav-link:hover {
+            color: #cccccc !important;
+        }

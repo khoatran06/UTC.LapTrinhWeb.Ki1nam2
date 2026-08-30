@@ -1,0 +1,77 @@
+﻿@model tdkhoa_day3.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<div class="container detail-page">
+
+    <h2>Chi tiết sản phẩm</h2>
+
+    <hr />
+
+    <div class="row">
+
+        <!-- ẢNH -->
+        <div class="col-md-4">
+
+            <img src="@Model.Image"
+                 class="detail-image"
+                 alt="@Model.Name" />
+
+        </div>
+
+
+        <!-- THÔNG TIN -->
+        <div class="col-md-8 detail-info">
+
+            <h2>
+                Sản phẩm: @Model.Name
+            </h2>
+
+            <h4>
+
+                <span class="old-price">
+                    Giá gốc: @Model.Price.ToString("N0")
+                </span>
+
+                <br />
+
+                Giá mới:
+                <strong>
+                    @Model.SalePrice.ToString("N0")
+                </strong>
+
+            </h4>
+
+            <h4>Mô tả:</h4>
+
+            <p>
+                @Model.Description
+            </p>
+
+            <h4>
+                Trạng thái:
+                @Model.Status
+            </h4>
+
+            <h4>
+                Ngày đăng:
+                @Model.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")
+            </h4>
+
+            <hr />
+
+            <a asp-controller="Product"
+               asp-action="Index"
+               class="back-button">
+
+                Về danh sách
+
+            </a>
+
+        </div>
+
+    </div>
+
+</div>

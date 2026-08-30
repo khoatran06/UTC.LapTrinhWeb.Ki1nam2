@@ -1,0 +1,96 @@
+﻿@model tdkhoa_day3.Models.ProductViewModel
+
+@{
+    ViewData["Title"] = "Sản phẩm";
+}
+
+<div class="container product-page">
+
+    <div class="row">
+
+        <!-- DANH MỤC -->
+        <div class="col-md-3">
+
+            <div class="category-title">
+                DANH MỤC
+            </div>
+
+            <div class="category-list">
+
+                @foreach (var category in Model.Categories)
+                {
+                    <a asp-controller="Product"
+                       asp-action="Index"
+                       asp-route-categoryId="@category.Id">
+
+                        @category.Name
+
+                    </a>
+                }
+
+            </div>
+
+        </div>
+
+
+        <!-- DANH SÁCH SẢN PHẨM -->
+        <div class="col-md-9">
+
+            <h2>Danh sách sản phẩm</h2>
+
+            <div class="row product-list">
+
+                @foreach (var product in Model.Products)
+                {
+                    <div class="col-md-4">
+
+                        <div class="product-card">
+
+                            <!-- Ảnh -->
+                            <img src="@product.Image"
+                                 class="product-image"
+                                 alt="@product.Name" />
+
+                            <!-- Tên -->
+                            <h3 class="product-name">
+                                @product.Name
+                            </h3>
+
+                            <!-- Giá -->
+                            <div class="product-price">
+
+                                <span class="old-price">
+                                    Giá: @product.Price.ToString("N0")
+                                </span>
+
+                                <span>
+                                    Giá:
+                                    <span class="new-price">
+                                        @product.SalePrice.ToString("N0")
+                                    </span>
+                                </span>
+
+                            </div>
+
+                            <!-- Chi tiết -->
+                            <a asp-controller="Product"
+                               asp-action="Detail"
+                               asp-route-id="@product.Id"
+                               class="detail-button">
+
+                                Chi tiết
+
+                            </a>
+
+                        </div>
+
+                    </div>
+                }
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

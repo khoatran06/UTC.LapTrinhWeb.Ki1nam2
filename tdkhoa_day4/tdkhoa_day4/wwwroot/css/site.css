@@ -1,0 +1,287 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: white;
+    color: #333;
+}
+
+
+/* =========================
+   HEADER
+   ========================= */
+
+header {
+    width: 100%;
+}
+
+.top-header {
+    width: 100%;
+    height: 60px;
+    background: #222;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+}
+
+.logo {
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+nav {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+    nav a {
+        color: #aaa;
+        text-decoration: none;
+        font-size: 13px;
+        padding: 23px 18px;
+    }
+
+        nav a:hover {
+            color: white;
+            background: #333;
+        }
+
+        nav a.active {
+            color: white;
+            font-weight: bold;
+        }
+
+
+/* =========================
+   MAIN
+   ========================= */
+
+main {
+    width: 100%;
+    margin: 10px 0 0;
+}
+
+.container-main {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    padding: 0 10px;
+}
+
+
+/* =========================
+   CỘT TRÁI
+   ========================= */
+
+.left-column {
+    width: 15%;
+    min-width: 180px;
+}
+
+
+/* =========================
+   DANH MỤC
+   ========================= */
+
+.category-box {
+    width: 100%;
+    border: 2px solid #f0d600;
+    background: white;
+}
+
+.box-title {
+    background: #337ab7;
+    color: white;
+    padding: 9px 10px;
+    font-size: 13px;
+}
+
+.category-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+    .category-list li {
+        padding: 8px 10px;
+        border-bottom: 1px solid #ddd;
+        font-size: 12px;
+    }
+
+        .category-list li:hover {
+            background: #eee;
+        }
+
+
+/* =========================
+   QUẢNG CÁO
+   ========================= */
+
+.advertisement {
+    width: 100%;
+    margin-top: 10px;
+    border: 2px solid #f0d600;
+}
+
+    .advertisement img {
+        width: 100%;
+        display: block;
+    }
+
+
+/* =========================
+   CỘT PHẢI
+   ========================= */
+
+.right-column {
+    width: 85%;
+}
+
+
+/* =========================
+   KHUNG SẢN PHẨM
+   ========================= */
+
+.product-section {
+    width: 100%;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    background: white;
+}
+
+
+/* =========================
+   TIÊU ĐỀ
+   ========================= */
+
+.section-title {
+    background: #337ab7;
+    color: white;
+    padding: 9px 10px;
+    font-size: 13px;
+}
+
+
+/* =========================
+   DANH SÁCH SẢN PHẨM
+   ========================= */
+
+.product-row {
+    width: 100%;
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+}
+
+
+/* =========================
+   CARD SẢN PHẨM
+   ========================= */
+
+.product-card {
+    flex: 1;
+    min-width: 0;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    background: white;
+}
+
+
+    /* =========================
+   ẢNH SẢN PHẨM
+   ========================= */
+
+    .product-card img {
+        width: 100%;
+        height: 170px;
+        object-fit: contain;
+        display: block;
+    }
+
+
+/* =========================
+   TÊN SẢN PHẨM
+   ========================= */
+
+.product-name {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 18px;
+    min-height: 40px;
+}
+
+
+/* =========================
+   GIÁ
+   ========================= */
+
+.product-price {
+    margin-top: 8px;
+    font-weight: bold;
+    color: #e74c3c;
+    font-size: 13px;
+}
+
+
+/* =========================
+   FOOTER
+   ========================= */
+
+footer {
+    width: 100%;
+    margin: 15px 0 0;
+    background: #333;
+    color: white;
+    display: flex;
+    gap: 50px;
+    padding: 18px 25px;
+}
+
+.footer-column {
+    width: 50%;
+}
+
+    .footer-column h3 {
+        margin-top: 0;
+        font-size: 15px;
+    }
+
+    .footer-column p {
+        font-size: 10px;
+        line-height: 16px;
+        color: #ddd;
+    }
+
+
+/* =========================
+   RESPONSIVE
+   ========================= */
+
+@media (max-width: 800px) {
+
+    .container-main {
+        flex-direction: column;
+    }
+
+    .left-column,
+    .right-column {
+        width: 100%;
+    }
+
+    .product-row {
+        flex-wrap: wrap;
+    }
+
+    .product-card {
+        width: calc(50% - 8px);
+        flex: none;
+    }
+}

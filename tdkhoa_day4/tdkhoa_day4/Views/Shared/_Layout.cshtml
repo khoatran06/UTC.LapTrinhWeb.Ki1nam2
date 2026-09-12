@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+
+<html lang="vi">
+
+<head>
+
+    <meta charset="utf-8" />
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0" />
+
+    <title>DEMO LAB</title>
+
+    <link rel="stylesheet"
+          href="~/css/site.css" />
+
+</head>
+
+<body>
+
+    <!-- HEADER -->
+
+    <header>
+
+        <div class="top-header">
+
+            <div class="logo">
+                DEMO LAB
+            </div>
+
+            @{
+                var controller = ViewContext.RouteData.Values["controller"]?.ToString();
+                var action = ViewContext.RouteData.Values["action"]?.ToString();
+            }
+
+            <nav>
+
+                <a href="/"
+                   class="@(controller == "Home" && action == "Index" ? "active" : "")">
+                    Trang chủ
+                </a>
+
+                <a href="#"
+                   class="@(controller == "Home" && action == "GioiThieu" ? "active" : "")">
+                    Giới thiệu
+                </a>
+
+                <a href="#"
+                   class="@(controller == "Home" && action == "LienHe" ? "active" : "")">
+                    Liên hệ
+                </a>
+
+                <a href="#"
+                   class="@(controller == "Home" && action == "SanPham" ? "active" : "")">
+                    Sản phẩm
+                </a>
+
+            </nav>
+
+        </div>
+
+    </header>
+
+
+    <!-- NỘI DUNG -->
+
+    <main>
+
+        @RenderBody()
+
+    </main>
+
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        <div class="footer-column">
+
+            <h3>
+                GIỚI THIỆU
+            </h3>
+
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Debitis ab suscipit deserunt mollitia reiciendis,
+                nobis iure aliquam vel at laboriosam ducimus veritatis
+                corporis est, dolores aperiam!
+            </p>
+
+        </div>
+
+
+        <div class="footer-column">
+
+            <h3>
+                LIÊN HỆ
+            </h3>
+
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Odit amet suscipit quasi quisquam impedit magni molestias
+                dolores, aliquid commodi ut esse eos voluptatem nisi facilis
+                dolorem, repudiandae culpa ea quidem.
+            </p>
+
+        </div>
+
+    </footer>
+
+
+    @await RenderSectionAsync(
+        "Scripts",
+        required: false
+    )
+
+</body>
+
+</html>

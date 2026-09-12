@@ -1,0 +1,31 @@
+﻿@model List<tdkhoa_day4.Models.Product>
+
+<div class="product-section">
+
+    <div class="section-title">
+        Sản phẩm bán chạy
+    </div>
+
+    <div class="product-row">
+
+        @foreach (var product in Model)
+        {
+            <div class="product-card">
+
+                <img src="@product.Image"
+                     alt="@product.Name" />
+
+                <div class="product-name">
+                    @product.Name
+                </div>
+
+                <div class="product-price">
+                    @product.Price.ToString("N0") VNĐ
+                </div>
+
+            </div>
+        }
+
+    </div>
+
+</div>

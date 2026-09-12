@@ -1,0 +1,60 @@
+﻿@model List<tdkhoa_day4.Models.Product>
+
+<div class="container-main">
+
+    <!-- CỘT BÊN TRÁI -->
+    <div class="left-column">
+
+        <!-- Partial View danh mục -->
+        @await Html.PartialAsync("_CategoryMenu")
+
+        <!-- Quảng cáo -->
+        <div class="advertisement">
+            <img src="/images/quangcao.jpg"
+                 alt="Quảng cáo" />
+        </div>
+
+    </div>
+
+
+    <!-- CỘT BÊN PHẢI -->
+    <div class="right-column">
+
+        <!-- SẢN PHẨM MỚI NHẤT -->
+        <div class="product-section">
+
+            <div class="section-title">
+                Sản phẩm mới nhất
+            </div>
+
+            <div class="product-row">
+
+                @foreach (var product in Model)
+                {
+                    <div class="product-card">
+
+                        <img src="@product.Image"
+                             alt="@product.Name" />
+
+                        <div class="product-name">
+                            @product.Name
+                        </div>
+
+                        <div class="product-price">
+                            @product.Price.ToString("N0") VNĐ
+                        </div>
+
+                    </div>
+                }
+
+            </div>
+
+        </div>
+
+
+        <!-- VIEW COMPONENT HOT PRODUCT -->
+        @await Component.InvokeAsync("HotProduct")
+
+    </div>
+
+</div>

@@ -1,0 +1,49 @@
+@model tdkhoa_day6.Models.TdkMenber
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>TdkCreate</h1>
+
+<h4>TdkMenber</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="TdkMenberUserName" class="control-label"></label>
+                <input asp-for="TdkMenberUserName" class="form-control" />
+                <span asp-validation-for="TdkMenberUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TdkMenberPassword" class="control-label"></label>
+                <input asp-for="TdkMenberPassword" class="form-control" />
+                <span asp-validation-for="TdkMenberPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TdkMenberEmail" class="control-label"></label>
+                <input asp-for="TdkMenberEmail" class="form-control" />
+                <span asp-validation-for="TdkMenberEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TdkMenberFullName" class="control-label"></label>
+                <input asp-for="TdkMenberFullName" class="form-control" />
+                <span asp-validation-for="TdkMenberFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-2">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="TdkIndex">Back to List</a>
+</div>

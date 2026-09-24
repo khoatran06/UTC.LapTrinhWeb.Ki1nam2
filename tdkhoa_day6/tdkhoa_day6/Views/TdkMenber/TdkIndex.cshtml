@@ -1,0 +1,41 @@
+﻿@model IEnumerable<tdkhoa_day6.Models.TdkMenber>
+
+@{
+    ViewData["Title"] = "TdkIndex";
+}
+
+<h1>TdkIndex</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.TdkMenberId)</th>
+            <th>@Html.DisplayNameFor(model => model.TdkMenberUserName)</th>
+            <th>@Html.DisplayNameFor(model => model.TdkMenberPassword)</th>
+            <th>@Html.DisplayNameFor(model => model.TdkMenberEmail)</th>
+            <th>@Html.DisplayNameFor(model => model.TdkMenberFullName)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.TdkMenberId)</td>
+                <td>@Html.DisplayFor(modelItem => item.TdkMenberUserName)</td>
+                <td>@Html.DisplayFor(modelItem => item.TdkMenberPassword)</td>
+                <td>@Html.DisplayFor(modelItem => item.TdkMenberEmail)</td>
+                <td>@Html.DisplayFor(modelItem => item.TdkMenberFullName)</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.TdkMenberId }) |
+                    @Html.ActionLink("Details", "TdkGetDetails", new { id = item.TdkMenberId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.TdkMenberId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

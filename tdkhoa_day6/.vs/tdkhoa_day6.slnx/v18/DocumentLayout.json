@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\views\\tdkmenber\\tdkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|solutionrelative:tdkhoa_day6\\views\\tdkmenber\\tdkindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\controllers\\tdkmenbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|solutionrelative:tdkhoa_day6\\controllers\\tdkmenbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\views\\tdkmenber\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|solutionrelative:tdkhoa_day6\\views\\tdkmenber\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\views\\tdkmenber\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|solutionrelative:tdkhoa_day6\\views\\tdkmenber\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|solutionrelative:tdkhoa_day6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\models\\tdkmenber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|solutionrelative:tdkhoa_day6\\models\\tdkmenber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|solutionrelative:tdkhoa_day6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\views\\tdkmenber\\tdkabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66A7BAE1-A3BB-452C-AFAA-B7E4040A6A0C}|tdkhoa_day6\\tdkhoa_day6.csproj|solutionrelative:tdkhoa_day6\\views\\tdkmenber\\tdkabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\TdkMenber\\Edit.cshtml",
+              "RelativeDocumentMoniker": "tdkhoa_day6\\Views\\TdkMenber\\Edit.cshtml",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\TdkMenber\\Edit.cshtml",
+              "RelativeToolTip": "tdkhoa_day6\\Views\\TdkMenber\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T15:33:48.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\TdkMenber\\Create.cshtml",
+              "RelativeDocumentMoniker": "tdkhoa_day6\\Views\\TdkMenber\\Create.cshtml",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\TdkMenber\\Create.cshtml",
+              "RelativeToolTip": "tdkhoa_day6\\Views\\TdkMenber\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T15:13:29.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TdkIndex.cshtml",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\TdkMenber\\TdkIndex.cshtml",
+              "RelativeDocumentMoniker": "tdkhoa_day6\\Views\\TdkMenber\\TdkIndex.cshtml",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\TdkMenber\\TdkIndex.cshtml",
+              "RelativeToolTip": "tdkhoa_day6\\Views\\TdkMenber\\TdkIndex.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T14:49:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TdkMenberController.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Controllers\\TdkMenberController.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day6\\Controllers\\TdkMenberController.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Controllers\\TdkMenberController.cs",
+              "RelativeToolTip": "tdkhoa_day6\\Controllers\\TdkMenberController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA8wGAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:12:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TdkMenber.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Models\\TdkMenber.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day6\\Models\\TdkMenber.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Models\\TdkMenber.cs",
+              "RelativeToolTip": "tdkhoa_day6\\Models\\TdkMenber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:07:59.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TdkAbout.cshtml",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\TdkMenber\\TdkAbout.cshtml",
+              "RelativeDocumentMoniker": "tdkhoa_day6\\Views\\TdkMenber\\TdkAbout.cshtml",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\TdkMenber\\TdkAbout.cshtml",
+              "RelativeToolTip": "tdkhoa_day6\\Views\\TdkMenber\\TdkAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T13:48:37.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day6\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "tdkhoa_day6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T13:44:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "tdkhoa_day6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day6\\tdkhoa_day6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "tdkhoa_day6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T13:42:40.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

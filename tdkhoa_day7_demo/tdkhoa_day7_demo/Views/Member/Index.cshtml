@@ -1,0 +1,23 @@
+﻿@model List<tdkhoa_day7_demo.Models.DataModels.Member>
+
+<h2>Danh sách thành viên</h2>
+<a asp-action="Create">Thêm mới</a>
+<table class="table">
+    <tr>
+        <th>Tên đăng nhập</th>
+        <th>Họ tên</th>
+        <th>Email</th>
+        <th>Điện thoại</th>
+        <th>Ngày sinh</th>
+    </tr>
+    @foreach (var m in Model)
+    {
+        <tr>
+            <td>@m.UserName</td>
+            <td>@m.FullName</td>
+            <td>@m.Email</td>
+            <td>@m.Phone</td>
+            <td>@m.Birthday.ToString("dd/MM/yyyy")</td>
+        </tr>
+    }
+</table>

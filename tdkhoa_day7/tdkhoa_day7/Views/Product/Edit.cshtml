@@ -1,0 +1,178 @@
+﻿@model tdkhoa_day7.Models.Product
+
+@{
+    ViewData["Title"] = "Sửa sản phẩm";
+
+    var categories =
+        ViewBag.Categories as List<tdkhoa_day7.Models.Category>;
+}
+
+<h1>Sửa sản phẩm</h1>
+
+<form asp-action="Edit"
+      method="post"
+      enctype="multipart/form-data">
+
+    <input type="hidden"
+           asp-for="Id" />
+
+    <div asp-validation-summary="ModelOnly"
+         class="text-danger">
+    </div>
+
+
+    <div class="mb-3">
+
+        <label asp-for="Name"
+               class="form-label">
+            Tên sản phẩm
+        </label>
+
+        <input asp-for="Name"
+               class="form-control" />
+
+        <span asp-validation-for="Name"
+              class="text-danger">
+        </span>
+
+    </div>
+
+
+    <div class="mb-3">
+
+        <label class="form-label">
+            Danh mục
+        </label>
+
+        <select asp-for="CategoryId"
+                class="form-select">
+
+            <option value="">
+                -- Chọn danh mục --
+            </option>
+
+            @foreach (var category in categories)
+            {
+                <option value="@category.Id">
+                    @category.Name
+                </option>
+            }
+
+        </select>
+
+        <span asp-validation-for="CategoryId"
+              class="text-danger">
+        </span>
+
+    </div>
+
+
+    <div class="mb-3">
+
+        <label class="form-label">
+            Ảnh hiện tại
+        </label>
+
+        <br />
+
+        <img src="~/products/@Model.Image"
+             width="150"
+             height="150"
+             style="object-fit:cover;" />
+
+    </div>
+
+
+    <div class="mb-3">
+
+        <label class="form-label">
+            Chọn ảnh mới
+        </label>
+
+        <input type="file"
+               name="ImageFile"
+               class="form-control"
+               accept="image/*" />
+
+        <small class="text-muted">
+            Không chọn ảnh mới thì giữ ảnh cũ.
+        </small>
+
+    </div>
+
+
+    <div class="mb-3">
+
+        <label asp-for="Price"
+               class="form-label">
+            Giá
+        </label>
+
+        <input asp-for="Price"
+               type="number"
+               class="form-control"
+               min="100000" />
+
+        <span asp-validation-for="Price"
+              class="text-danger">
+        </span>
+
+    </div>
+
+
+    <div class="mb-3">
+
+        <label asp-for="SalePrice"
+               class="form-label">
+            Giá khuyến mãi
+        </label>
+
+        <input asp-for="SalePrice"
+               type="number"
+               class="form-control"
+               min="0" />
+
+        <span asp-validation-for="SalePrice"
+              class="text-danger">
+        </span>
+
+    </div>
+
+
+    <div class="mb-3">
+
+        <label asp-for="Description"
+               class="form-label">
+            Mô tả
+        </label>
+
+        <textarea asp-for="Description"
+                  class="form-control"
+                  rows="6"
+                  maxlength="1500"></textarea>
+
+        <span asp-validation-for="Description"
+              class="text-danger">
+        </span>
+
+    </div>
+
+
+    <button type="submit"
+            class="btn btn-primary">
+        Lưu thay đổi
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Quay lại
+    </a>
+
+</form>
+
+
+@section Scripts {
+
+    <partial name="_ValidationScriptsPartial" />
+
+}

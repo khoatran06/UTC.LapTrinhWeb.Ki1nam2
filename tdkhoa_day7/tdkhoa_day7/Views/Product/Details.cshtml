@@ -1,0 +1,79 @@
+﻿@model tdkhoa_day7.Models.Product
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+
+    var category =
+        ViewBag.Category as tdkhoa_day7.Models.Category;
+}
+
+<h1>Chi tiết sản phẩm</h1>
+
+<div class="card"
+     style="max-width:700px;">
+
+    <div class="card-body">
+
+        <div class="text-center mb-3">
+
+            <img src="~/products/@Model.Image"
+                 width="250"
+                 height="250"
+                 style="object-fit:cover;" />
+
+        </div>
+
+
+        <p>
+            <strong>ID:</strong>
+            @Model.Id
+        </p>
+
+
+        <p>
+            <strong>Tên sản phẩm:</strong>
+            @Model.Name
+        </p>
+
+
+        <p>
+            <strong>Danh mục:</strong>
+            @category?.Name
+        </p>
+
+
+        <p>
+            <strong>Giá:</strong>
+            @Model.Price.ToString("N0") VNĐ
+        </p>
+
+
+        <p>
+            <strong>Giá khuyến mãi:</strong>
+            @Model.SalePrice.ToString("N0") VNĐ
+        </p>
+
+
+        <p>
+            <strong>Mô tả:</strong>
+        </p>
+
+        <p>
+            @Model.Description
+        </p>
+
+
+        <a asp-action="Edit"
+           asp-route-id="@Model.Id"
+           class="btn btn-warning">
+            Sửa
+        </a>
+
+        <a asp-action="Index"
+           class="btn btn-secondary">
+            Quay lại
+        </a>
+
+    </div>
+
+</div>

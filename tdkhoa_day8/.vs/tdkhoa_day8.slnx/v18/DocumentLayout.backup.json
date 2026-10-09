@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|solutionrelative:tdkhoa_day8\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|solutionrelative:tdkhoa_day8\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|solutionrelative:tdkhoa_day8\\models\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\PublishersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day8\\Controllers\\PublishersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\OrderDetailsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day8\\Controllers\\OrderDetailsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day8\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day8\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\AccountsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tdkhoa_day8\\Controllers\\AccountsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|solutionrelative:tdkhoa_day8\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|solutionrelative:tdkhoa_day8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|d:\\mon_laptrinhweb\\bai tap ve nha\\utc.laptrinhweb.ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5FBBEB-7E8D-4B7E-8FBA-45640E1EB4D7}|tdkhoa_day8\\tdkhoa_day8.csproj|solutionrelative:tdkhoa_day8\\models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "tdkhoa_day8\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-09T05:34:47.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderBook.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Models\\OrderBook.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Models\\OrderBook.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Models\\OrderBook.cs",
+              "RelativeToolTip": "tdkhoa_day8\\Models\\OrderBook.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:24:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Controllers\\PublishersController.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "tdkhoa_day8\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:23:41.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "tdkhoa_day8\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:20:00.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "tdkhoa_day8\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:18:15.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "tdkhoa_day8\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-09T05:15:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "tdkhoa_day8\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:08:58.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Program.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Program.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Program.cs",
+              "RelativeToolTip": "tdkhoa_day8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T04:43:33.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "tdkhoa_day8\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T04:41:20.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Models\\Publisher.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Models\\Publisher.cs",
+              "RelativeToolTip": "tdkhoa_day8\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T04:37:49.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Models\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "tdkhoa_day8\\Models\\BookStoreDbContext.cs",
+              "ToolTip": "D:\\Mon_LapTrinhWeb\\Bai tap ve nha\\UTC.LapTrinhWeb.Ki1nam2\\tdkhoa_day8\\tdkhoa_day8\\Models\\BookStoreDbContext.cs",
+              "RelativeToolTip": "tdkhoa_day8\\Models\\BookStoreDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T04:37:24.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

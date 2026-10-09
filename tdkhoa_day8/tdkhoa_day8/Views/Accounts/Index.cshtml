@@ -1,0 +1,33 @@
+@model IEnumerable<tdkhoa_day8.Models.Account>
+
+@{
+    ViewData["Title"] = "Danh sách tài khoản";
+}
+
+<h1>Danh sách tài khoản</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên đăng nhập</th>
+            <th>Họ tên</th>
+            <th>Email</th>
+            <th>Điện thoại</th>
+            <th>Quản trị</th>
+            <th>Kích hoạt</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Username</td>
+                <td>@item.FullName</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>@item.IsAdmin</td>
+                <td>@item.Active</td>
+            </tr>
+        }
+    </tbody>
+</table>

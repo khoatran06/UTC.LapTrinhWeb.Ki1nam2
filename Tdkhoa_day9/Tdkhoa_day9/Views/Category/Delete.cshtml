@@ -1,0 +1,22 @@
+﻿@model Tdkhoa_day9.Models.Category
+
+@{
+    ViewData["Title"] = "Xóa danh mục";
+}
+
+<h1>Xóa danh mục</h1>
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<p>Bạn có chắc chắn muốn xóa danh mục này không?</p>
+
+<p><strong>ID:</strong> @Model.Id</p>
+<p><strong>Tên:</strong> @Model.Name</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">Xác nhận xóa</button>
+
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

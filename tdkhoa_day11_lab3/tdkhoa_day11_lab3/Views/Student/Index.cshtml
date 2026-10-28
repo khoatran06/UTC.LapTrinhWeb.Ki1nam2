@@ -1,0 +1,82 @@
+﻿@model IEnumerable<tdkhoa_day11_lab3.Models.Student>
+
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+<h1>Danh sách sinh viên</h1>
+
+<p>
+    <a asp-controller="Student"
+       asp-action="Create"
+       class="btn btn-primary">
+        Thêm sinh viên
+    </a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Mã sinh viên</th>
+            <th>Họ và tên</th>
+            <th>Email</th>
+            <th>Chuyên ngành</th>
+            <th>Giới tính</th>
+            <th>Chính quy</th>
+            <th>Ngày sinh</th>
+            <th>Địa chỉ</th>
+            <th>Điểm</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.Id</td>
+                    <td>@student.Name</td>
+                    <td>@student.Email</td>
+                    <td>@student.Branch</td>
+
+                    <td>
+                        @if (student.Gender == tdkhoa_day11_lab3.Models.Gender.Nam)
+                        {
+                            <span>Nam</span>
+                        }
+                        else if (student.Gender == tdkhoa_day11_lab3.Models.Gender.Nu)
+                        {
+                            <span>Nữ</span>
+                        }
+                        else
+                        {
+                            <span>Khác</span>
+                        }
+                    </td>
+
+                    <td>
+                        @(student.IsRegular ? "Có" : "Không")
+                    </td>
+
+                    <td>
+                        @(student.DateOfBirth.HasValue
+                            ? student.DateOfBirth.Value.ToString("dd/MM/yyyy")
+                            : "")
+                    </td>
+
+                    <td>@student.Address</td>
+                    <td>@student.Score</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="9" class="text-center">
+                    Chưa có sinh viên nào.
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
